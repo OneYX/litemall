@@ -51,6 +51,9 @@
                                 <resource>
                                     <directory>../litemall-admin/dist</directory>
                                 </resource>
+                                <resource>
+                                    <directory>../litemall-vue/dist</directory>
+                                </resource>
                             </resources>
                         </configuration>
                     </execution>
